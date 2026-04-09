@@ -1,5 +1,9 @@
 # Arbiter Akitsu Web App Launcher
 
+> [!WARNING]
+> **DEPRECATED**: This repository has been archived and generalized! 
+> If you are looking to wrap a Web App in a native desktop executable, please use the master template repository: [Anti-Web-App](https://github.com/winters27/Anti-Web-App). It contains the full source code and a tutorial to compile a wrapper for *any* URL.
+
 A simple Windows launcher that opens Arbiter Akitsu’s web app in a clean Microsoft Edge window.
 
 ## Motivation
