@@ -2,6 +2,9 @@
 
 A simple Windows launcher that opens Arbiter Akitsu’s web app in a clean Microsoft Edge window.
 
+## Motivation
+The main use case for this project is simply because I dislike having to open an entire Edge or Chrome browser just to use gaming web apps. It is far more convenient to have a native executable shortcut. This is especially useful for users who use browsers like Zen (a Firefox fork) as their daily driver over Chromium-based browsers, but still want to leverage the `msedge` engine natively bundled within Windows as a clean, hidden backend wrapper.
+
 ---
 
 ## Usage
